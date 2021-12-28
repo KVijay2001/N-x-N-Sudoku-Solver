@@ -1,4 +1,4 @@
-#SUDOOKU SOLVER BY KISOTHAN
+# N X N SUDOOKU SOLVER BY KISOTHAN FOR ALL EVEN N > 3
 
 sudoku=[[5,2,'x7',6,1,3],[1,'x7','x7',4,5,2],[2,'x6',1,5,3,4],['x6',4,5,2,6,1],[6,'x6',2,'x6',4,5],['x6','x6',3,1,2,6]]
 
